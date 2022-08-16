@@ -1,0 +1,9 @@
+.nav-link:active{
+    color: white !important;
+}
+.nav-link:hover{
+    color: white;
+}
+.sec{
+    margin-top: 100px;
+}
